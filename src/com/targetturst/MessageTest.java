@@ -19,7 +19,7 @@ public class MessageTest {
 	@Before
 	public void setUp() throws Exception {
 		driver = new FirefoxDriver();
-		driver.get("http://treinoautomacao.hol.es/alertsconfirmation.html");
+		driver.get("");
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		
 	}
