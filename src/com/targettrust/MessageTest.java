@@ -1,4 +1,4 @@
-package com.targetturst;
+package com.targettrust;
 
 import static org.junit.Assert.*;
 
